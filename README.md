@@ -1,4 +1,4 @@
-# Cannibals_Missionaries_AI
+# Cannibals Missionaries AI
 **Code does a state space search to derive the goal sequence**
 
 <pre>
